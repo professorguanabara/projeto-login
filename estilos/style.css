@@ -81,7 +81,7 @@ div.campo > label {
 div.campo > i {
     color: white;
     /*background-color: black;*/
-    font-size: 2em;
+    font-size: 1.9em;
     width: 40px;
     padding: 5px;
 }
@@ -89,9 +89,9 @@ div.campo > i {
 div.campo > input {
     background-color: #94cfcd;
     font-size: 1em;
-    width: calc(100% - 44px);
+    width: calc(100% - 45px);
     height: 100%;
-    transform: translateY(-12px);
+    transform: translateY(-10px);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
